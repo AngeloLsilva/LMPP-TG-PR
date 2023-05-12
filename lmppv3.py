@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 # Definir o caminho para o diretório das imagens
-caminho_diretorio = 'imagens/Lmpp'
+caminho_diretorio = 'imagens/Lmpp_tratada'
 
 # Definir a área da circunferência utilizada para calcular o volume das boias
 Area_da_circunferencia = 1.0
